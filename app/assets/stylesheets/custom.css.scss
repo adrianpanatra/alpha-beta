@@ -47,7 +47,17 @@ $navbar-default-bg: #0c0d0d;
 
 .description {
   margin-top: 0px;
-  
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 0.5cm;
+}
+
+.article-body {
+  border-top: 1px solid #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 footer {
